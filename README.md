@@ -115,7 +115,7 @@ Trabalho desenvolvido durante a aula de Git do Vem Ser DBC com o objetivo de exe
 ## Aventura:
 
 ### O Senhor dos Anéis - A Sociedade do Anel
-<img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/96/54/75/20474449.jpg" alt="Imagem do Senhor dos Anéis" width="300" height="400"/>
+<img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/91/32/20224832.jpg" alt="Imagem do Senhor dos Anéis" width="300" height="400"/>
 
 `Descrição:` Numa terra fantástica e única, chamada Terra-Média, um hobbit (seres de estatura entre 80 cm e 1,20 m, com pés peludos e bochechas um pouco avermelhadas) recebe de presente de seu tio o Um Anel, um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso o hobbit Frodo (Elijah Woods) terá um caminho árduo pela frente, onde encontrará perigo, medo e personagens bizarros. Ao seu lado para o cumprimento desta jornada aos poucos ele poderá contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando 9 pessoas que formarão a Sociedade do Anel.
 
