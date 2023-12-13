@@ -36,6 +36,7 @@ Trabalho desenvolvido durante a aula de Git do Vem Ser DBC com o objetivo de exe
 `Descrição:` Em uma pequena cidade do sul dos Estados Unidos, um advogado (interpretado por Matthew McConaughey) é designado para defender um homem negro (Samuel L. Jackson) acusado de estuprar uma jovem branca. O crime desencadeia uma série de tensões raciais na comunidade, e o advogado decide adotar uma estratégia extrema para provar a inocência de seu cliente. Baseado no romance de John Grisham, "Um Ato de Coragem" aborda questões profundas de justiça, preconceito racial e a luta por igualdade.
 
 
+
 ## Suspense: 
 
 #### Amnésia 
@@ -53,6 +54,28 @@ Trabalho desenvolvido durante a aula de Git do Vem Ser DBC com o objetivo de exe
 
 `Descrição:` Em Boston, um pai de família deve lidar com o desaparecimento de sua filha e de um amigo dela. Quando suspeita que o detetive encarregado das buscas já desistiu de procurar pelo culpado, ele, desesperado, passa a desconfiar de todas as pessoas ao seu redor. Fazendo sua própria investigação, acaba encontrando o principal suspeito e decide fazer justiça com as próprias mãos.
 
+
+# Séries
+
+## Guerra:
+
+#### Seal Team
+![Imagem Seal Team](https://br.web.img2.acsta.net/c_310_420/pictures/17/08/31/14/10/061324.jpg)
+
+`Descrição:` SEAL Team" é uma série de televisão que mergulha nas operações especiais da Marinha dos Estados Unidos. A trama acompanha a vida profissional e pessoal da equipe de elite SEAL (Sea, Air, and Land) enquanto eles enfrentam desafios perigosos ao redor do mundo. Além das operações táticas intensas, a série explora os sacrifícios e as relações complexas dos membros da equipe, destacando as tensões emocionais que surgem entre o dever e a vida pessoal.
+
+#### Band of Brothers
+![Imagem Band of Brothers](https://assets.b9.com.br/wp-content/uploads/2019/10/band-of-brothers-1280x720.jpg)
+
+`Descrição:` "Irmãos de Guerra" é uma aclamada minissérie que retrata a história real da Easy Company, parte do 506º Regimento da 101ª Divisão Aerotransportada do Exército dos Estados Unidos, durante a Segunda Guerra Mundial. A narrativa segue os soldados desde o treinamento intenso até as perigosas missões na Europa, incluindo o Dia D e a Batalha do Bulge. A série destaca a camaradagem, a coragem e os desafios enfrentados pelos soldados, oferecendo uma visão intensa e emocional da experiência de combate na guerra.
+
+#### The Pacific
+![Imagem The Pacific](https://br.web.img2.acsta.net/c_310_420/pictures/17/08/31/14/10/061324.jpg)
+
+`Descrição:` O Pacífico" é uma minissérie que aborda os eventos da Segunda Guerra Mundial no teatro do Pacífico. Baseada em relatos reais, a história segue três fuzileiros navais dos Estados Unidos durante batalhas cruciais contra as forças japonesas. A narrativa destaca as condições brutais e os horrores da guerra no Pacífico, mostrando o impacto físico e psicológico nas tropas. Ao explorar os desafios enfrentados pelos fuzileiros, a série oferece uma visão poderosa e visceral do conflito no teatro do Pacífico.
+
 ## Branchs criadas
 
 feat/drama
+feat/suspense
+feat/series
