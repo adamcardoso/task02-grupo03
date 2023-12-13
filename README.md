@@ -54,6 +54,22 @@ Trabalho desenvolvido durante a aula de Git do Vem Ser DBC com o objetivo de exe
 
 `Descrição:` Em Boston, um pai de família deve lidar com o desaparecimento de sua filha e de um amigo dela. Quando suspeita que o detetive encarregado das buscas já desistiu de procurar pelo culpado, ele, desesperado, passa a desconfiar de todas as pessoas ao seu redor. Fazendo sua própria investigação, acaba encontrando o principal suspeito e decide fazer justiça com as próprias mãos.
 
+## Ação:
+
+#### Vingadores     
+<img src="https://lumiere-a.akamaihd.net/v1/images/au_marvel_theavengers_infinitywar_movie_poster_0bf1f0d0.jpeg?region=1,169,539,609" alt="Os Vingadores" width="400" height="500"/>
+
+`Descrição:` Os filmes dos Vingadores são uma série de produções da Marvel Studios que reúnem vários super-heróis do Universo Cinematográfico da Marvel (MCU). O primeiro filme, "Os Vingadores" (2012), dirigido por Joss Whedon, mostra a equipe de heróis, incluindo Homem de Ferro, Capitão América, Thor, Hulk, Viúva Negra e Gavião Arqueiro, unindo forças para enfrentar Loki e seu exército alienígena.
+
+#### Batman
+<img src="https://i.pinimg.com/236x/5c/a7/8b/5ca78b09e864b0558008091be01ef9dc.jpg" alt="Batman" width="400" height="500"/>
+
+`Descrição:` Batman é um personagem da DC Comics que teve várias adaptações cinematográficas. O filme "Batman Begins" (2005), dirigido por Christopher Nolan, mostra a origem de Batman, interpretado por Christian Bale, e seu combate ao crime em Gotham City, incluindo seu confronto com o vilão Ra's al Ghul. Depois, em "The Dark Knight" (2008), Batman enfrenta o Coringa, interpretado por Heath Ledger, em uma batalha intensa pela alma de Gotham.
+
+#### Homem-aranha
+<img src="https://i.pinimg.com/236x/46/b3/9e/46b39e1c4623d700b7bb8ee55728ac6f.jpg" alt="Homem-aranha" width="400" height="500"/>
+
+`Descrição:` O Homem-Aranha é outro personagem de quadrinhos, da Marvel Comics, que também teve várias versões no cinema. "Homem-Aranha" (2002), dirigido por Sam Raimi, mostra a história de Peter Parker, interpretado por Tobey Maguire, que adquire habilidades de aranha e assume a identidade do Homem-Aranha para combater o crime, especialmente o vilão Duende Verde.
 
 # Séries
 
@@ -78,6 +94,7 @@ Trabalho desenvolvido durante a aula de Git do Vem Ser DBC com o objetivo de exe
 
 ## Branchs criadas
 
+feat/acao <br>
 feat/drama <br>
 feat/suspense <br>
-feat/series
+feat/series <br>
