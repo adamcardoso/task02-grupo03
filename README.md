@@ -71,6 +71,25 @@ Trabalho desenvolvido durante a aula de Git do Vem Ser DBC com o objetivo de exe
 
 `Descrição:` O Homem-Aranha é outro personagem de quadrinhos, da Marvel Comics, que também teve várias versões no cinema. "Homem-Aranha" (2002), dirigido por Sam Raimi, mostra a história de Peter Parker, interpretado por Tobey Maguire, que adquire habilidades de aranha e assume a identidade do Homem-Aranha para combater o crime, especialmente o vilão Duende Verde.
 
+## Animação:
+
+#### Carros
+<img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/77/81/19961449.jpg" alt=”Carros” width="400" height="500"/>
+
+`Descrição:` Relâmpago McQueen (Owen Wilson) é um carro de corridas ambicioso, que já em sua 1ª temporada na Copa Pistão torna-se um astro. Ele sonha em se tornar o 1º estreante a vencer o campeonato, o que possibilitaria que assinasse um patrocínio com a cobiçada Dinoco. A fama faz com que Relâmpago acredite que não precisa da ajuda de ninguém, sendo uma "equipe de um carro só". Esta arrogância lhe custa caro na última corrida da temporada, fazendo com que seus dois pneus traseiros estourem na última volta da corrida. O problema permite que seus dois principais adversários, o ídolo Rei (Richard Petty) e o traiçoeiro Chicks (Michael Keaton), cruzem a linha de chegada juntamente com ele, o que faz com que uma corrida de desempate seja agendada na California. Relâmpago é então levado para o local de corrida por Mack (John Ratzenberger), um caminhão que faz parte de sua equipe. Ele quer chegar ao local antes de seus competidores e, por causa disto, insiste que Mack viage sem interrupções. Mack termina dormindo em pleno trânsito, o que faz com que a caçamba se abra e Relâmpago, que também estava dormindo, seja largado em plena estrada. Ao acordar Relâmpago tenta encontrar Mack a todo custo, mas não tem sucesso. Em seu desespero ele chega à pequena Radiator Springs, uma cidade do interior que tem pouquíssimo movimento e que jamais ouviu falar de Relâmpago ou até mesmo da Copa Pistão. Porém, por ter destruído a principal rua da cidade, Relâmpago é condenado a reasfaltá-la. Obrigado a permanecer na cidade contra a sua vontade, aos poucos ele conhece os habitantes locais e começa a se afeiçoar por eles.
+
+
+#### Moana
+<img src="https://br.web.img3.acsta.net/c_310_420/pictures/16/09/12/22/13/415370.jpg" alt="Moana" width="400" height="500"/>
+
+`Descrição:` Moana Waialiki é uma corajosa jovem, filha única do chefe de uma tribo na Oceania, vinda de uma longa linhagem de navegadores. Quando os pescadores de sua ilha não conseguem pescar nenhum peixe e as colheitas falham, ela descobre que o semideus Maui causou a praga ao roubar o coração da deusa Te Fiti. Entusiasta das viagens marítimas, a jovem se vê querendo descobrir mais sobre seu passado e ajudar a comunidade, mesmo que a família queira proteger Moana a qualquer custo. Então, ela resolve partir em busca de seus ancestrais, habitantes de uma ilha mítica que ninguém sabe onde é. A única maneira de curar a ilha é persuadir Maui a devolver o coração de Te Fiti, então Moana parte em uma jornada épica pelo Pacífico. Moana começa sua jornada em mar aberto, onde enfrenta terríveis criaturas marinhas e descobre histórias do submundo. O filme é baseado em histórias da mitologia polinésia.
+
+#### Como Treinar o Seu Dragão
+<img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/90/36/19962735.jpg" alt="Como Treinar o Seu Dragão" width="400" height="500"/>
+
+`Descrição:` Na ilha de Berk, os vikings dedicam a vida a combater e matar dragões. Soluço (Jay Baruchel), filho do chefe Stoico (Gerard Butler), não é diferente. Ele sonha em matar um dragão e provar seu valor ao pai, apesar da descrença geral. Um dia, por acaso, ele acerta um dragão que jamais foi visto, chamado Fúria da Noite. Ao procurá-lo, no dia seguinte, Soluço não consegue matá-lo e acaba soltando-o. Só que ele perdeu parte da cauda e, com isso, não consegue mais voar. Soluço passa a trabalhar em um artefato que possa substituir a parte perdida e, aos poucos, se aproxima do dragão. Só que, paralelamente, Stoico autoriza que o filho participe do treino para dragões, cuja prova final é justamente matar um dos animais.
+
+
 # Séries
 
 ## Guerra:
@@ -94,7 +113,9 @@ Trabalho desenvolvido durante a aula de Git do Vem Ser DBC com o objetivo de exe
 
 ## Branchs criadas
 
-feat/acao <br>
-feat/drama <br>
-feat/suspense <br>
-feat/series <br>
+Debora Hickmann - feat/acao <br>
+Vinícius Bastos - feat/drama <br>
+Willian Cavalheiro - feat/suspense <br>
+Filipe Prata - feat/animacao <br>
+Adam Cardoso - feat/series <br>
+
